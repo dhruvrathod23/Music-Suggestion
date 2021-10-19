@@ -1,3 +1,17 @@
+a small assignment using spotiy api- fetching categories and playlist and albums in it
+
+live demo
+https://spotify-ass.herokuapp.com/
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
