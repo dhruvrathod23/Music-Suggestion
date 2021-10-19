@@ -1,4 +1,5 @@
-a small assignment using spotiy api- fetching categories and playlist and albums in it
+a small assignment using spotiy api- fetching categories , playlist and albums in it keeping it raw right now soon will be styling it using styled-components
+
 
 live demo
 https://spotify-ass.herokuapp.com/
