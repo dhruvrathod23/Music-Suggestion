@@ -1,4 +1,4 @@
-a small Project using spotiy api- fetching categories , playlist and albums in it ....keeping it raw right now soon will be styling it using styled-components
+a small Project using spotiy api- fetching categories , playlist and albums in it of ur choice....keeping it raw right now soon will be styling it using styled-components
 
 
 live demo
